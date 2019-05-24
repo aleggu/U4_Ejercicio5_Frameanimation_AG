@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/moto01" android:duration="100" />
+    <item android:drawable="@drawable/moto02" android:duration="100" />
+    <item android:drawable="@drawable/moto03" android:duration="100" />
+    <item android:drawable="@drawable/moto04" android:duration="100" />
+    <item android:drawable="@drawable/moto05" android:duration="100" />
+    <item android:drawable="@drawable/moto06" android:duration="100" />
+    <item android:drawable="@drawable/moto07" android:duration="100" />
+    <item android:drawable="@drawable/moto08" android:duration="100" />
+    <item android:drawable="@drawable/moto09" android:duration="100" />
+    <item android:drawable="@drawable/moto10" android:duration="100" />
+    <item android:drawable="@drawable/moto11" android:duration="100" />
+    <item android:drawable="@drawable/moto01" android:duration="100" />
+    <item android:drawable="@drawable/moto02" android:duration="100" />
+    <item android:drawable="@drawable/moto03" android:duration="100" />
+    <item android:drawable="@drawable/moto04" android:duration="100" />
+    <item android:drawable="@drawable/moto05" android:duration="100" />
+    <item android:drawable="@drawable/moto06" android:duration="100" />
+    <item android:drawable="@drawable/moto07" android:duration="100" />
+    <item android:drawable="@drawable/moto08" android:duration="100" />
+    <item android:drawable="@drawable/moto09" android:duration="100" />
+    <item android:drawable="@drawable/moto10" android:duration="100" />
+    <item android:drawable="@drawable/moto11" android:duration="100" />
+    <item android:drawable="@drawable/moto01" android:duration="100" />
+    <item android:drawable="@drawable/moto02" android:duration="100" />
+    <item android:drawable="@drawable/moto03" android:duration="100" />
+    <item android:drawable="@drawable/moto04" android:duration="100" />
+    <item android:drawable="@drawable/moto05" android:duration="100" />
+    <item android:drawable="@drawable/moto06" android:duration="100" />
+    <item android:drawable="@drawable/moto07" android:duration="100" />
+    <item android:drawable="@drawable/moto08" android:duration="100" />
+    <item android:drawable="@drawable/moto09" android:duration="100" />
+    <item android:drawable="@drawable/moto10" android:duration="100" />
+    <item android:drawable="@drawable/moto11" android:duration="100" />
+    <item android:drawable="@drawable/moto01" android:duration="100" />
+    <item android:drawable="@drawable/moto02" android:duration="100" />
+    <item android:drawable="@drawable/moto03" android:duration="100" />
+    <item android:drawable="@drawable/moto04" android:duration="100" />
+    <item android:drawable="@drawable/moto05" android:duration="100" />
+    <item android:drawable="@drawable/moto06" android:duration="100" />
+    <item android:drawable="@drawable/moto07" android:duration="100" />
+    <item android:drawable="@drawable/moto08" android:duration="100" />
+    <item android:drawable="@drawable/moto09" android:duration="100" />
+    <item android:drawable="@drawable/moto10" android:duration="100" />
+    <item android:drawable="@drawable/moto11" android:duration="100" />
+    <item android:drawable="@drawable/moto01" android:duration="100" />
+    <item android:drawable="@drawable/moto02" android:duration="100" />
+    <item android:drawable="@drawable/moto03" android:duration="100" />
+    <item android:drawable="@drawable/moto04" android:duration="100" />
+    <item android:drawable="@drawable/moto05" android:duration="100" />
+    <item android:drawable="@drawable/moto06" android:duration="100" />
+    <item android:drawable="@drawable/moto07" android:duration="100" />
+    <item android:drawable="@drawable/moto08" android:duration="100" />
+    <item android:drawable="@drawable/moto09" android:duration="100" />
+    <item android:drawable="@drawable/moto10" android:duration="100" />
+    <item android:drawable="@drawable/moto11" android:duration="100" />
+    <item android:drawable="@drawable/moto01" android:duration="100" />
+    <item android:drawable="@drawable/moto02" android:duration="100" />
+    <item android:drawable="@drawable/moto03" android:duration="100" />
+    <item android:drawable="@drawable/moto04" android:duration="100" />
+    <item android:drawable="@drawable/moto05" android:duration="100" />
+    <item android:drawable="@drawable/moto06" android:duration="100" />
+    <item android:drawable="@drawable/moto07" android:duration="100" />
+    <item android:drawable="@drawable/moto08" android:duration="100" />
+    <item android:drawable="@drawable/moto09" android:duration="100" />
+    <item android:drawable="@drawable/moto10" android:duration="100" />
+    <item android:drawable="@drawable/moto11" android:duration="100" />
+
+
+</animation-list>
